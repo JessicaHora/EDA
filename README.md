@@ -13,4 +13,4 @@ Os principais Insigts Obtidos foram:
 
 - O consumo de electricidade é geralmente mais elevado no Inverno e mais baixo no Verão. 
 
--A produção eólica é maior durante o verão. Além disso, existem muitos valores discrepantes associados ao consumo de eletricidade, à produção eólica e à produção solar.
+- A produção eólica é maior durante o verão. Além disso, existem muitos valores discrepantes associados ao consumo de eletricidade, à produção eólica e à produção solar.
